@@ -4,23 +4,35 @@
    <name>Regression Tests</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-06-26T16:22:55</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9c54801c-d57d-404c-be15-6c167ec3650a</testSuiteGuid>
    <testCaseLink>
-      <guid>9eb14078-21e6-435b-9587-31e88946038f</guid>
+      <guid>c1994110-a7a5-4b8f-8123-a859969953bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify Correct Alarm Message</testCaseId>
+      <testCaseId>Test Cases/LoginEmail</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>bb594fd1-d00d-4a89-84a4-7a5675904a79</guid>
+      <guid>969b13f6-820a-4ffe-bad6-bfed1ef9a5ab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify Last Items In List</testCaseId>
+      <testCaseId>Test Cases/Welcome Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ae2f0518-c7ba-48e9-846a-b900ae930ecc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OpenStore</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8eefbc00-3242-4c65-b2e5-3f15026a3661</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Claim prize - free user Free shipping flow (Fill DD, Sign up, Purchase)</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
