@@ -15,7 +15,7 @@
       <guid>c1994110-a7a5-4b8f-8123-a859969953bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginEmail</testCaseId>
+      <testCaseId>Test Cases/SingInEmail</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>969b13f6-820a-4ffe-bad6-bfed1ef9a5ab</guid>
